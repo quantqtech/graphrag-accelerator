@@ -8,5 +8,8 @@
   "GRAPHRAG_LLM_DEPLOYMENT_NAME": "gpt-4o-mini",
   "GRAPHRAG_LLM_MODEL": "gpt-4o-mini",
   "LOCATION": "eastus",
-  "RESOURCE_GROUP": "rg-aidan-graphrag-demo01"
+  "RESOURCE_GROUP": "rg-aidan-graphrag-demo01",
+  "APIM_NAME": "apimaidangraphragdemo",
+  "APIM_TIER": "Developer",
+  "RESOURCE_BASE_NAME": "aidan001"
 }
